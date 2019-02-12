@@ -1,0 +1,5 @@
+2019-02-13 02:07:39,759 +0530 [main] DEBUG (FirstLog4j.java:16) - My Debug Log
+2019-02-13 02:07:39,762 +0530 [main] INFO  (FirstLog4j.java:17) - My Info Log
+2019-02-13 02:07:39,763 +0530 [main] WARN  (FirstLog4j.java:18) - My Warn Log
+2019-02-13 02:07:39,763 +0530 [main] ERROR (FirstLog4j.java:19) - My error log
+2019-02-13 02:07:39,763 +0530 [main] FATAL (FirstLog4j.java:20) - My fatal log
