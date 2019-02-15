@@ -8,3 +8,49 @@
 2019-02-13 02:49:28,166 +0530 [main] WARN  (FirstLog4j.java:18) - My Warn Log
 2019-02-13 02:49:28,166 +0530 [main] ERROR (FirstLog4j.java:19) - My error log
 2019-02-13 02:49:28,166 +0530 [main] FATAL (FirstLog4j.java:20) - My fatal log
+2019-02-15 14:39:25,684 +0530 [main] DEBUG (DatabaseJoining.java:18) - Driver class registered
+2019-02-15 14:43:48,170 +0530 [main] DEBUG (DatabaseJoining.java:18) - Driver class registered
+2019-02-15 14:43:49,401 +0530 [main] DEBUG (DatabaseJoining.java:20) - Connection with driver established
+2019-02-15 14:43:49,571 +0530 [main] DEBUG (DatabaseJoining.java:22) - Statement creation completed
+2019-02-15 14:43:49,707 +0530 [main] DEBUG (DatabaseJoining.java:24) - Execution of queries took place
+2019-02-15 14:43:49,725 +0530 [main] DEBUG (DatabaseJoining.java:29) - Connection was closed successfully
+2019-02-15 14:44:50,199 +0530 [main] DEBUG (DatabaseJoining.java:18) - Driver class registered
+2019-02-15 14:44:50,584 +0530 [main] DEBUG (DatabaseJoining.java:20) - Connection with driver established
+2019-02-15 14:44:50,662 +0530 [main] DEBUG (DatabaseJoining.java:22) - Statement creation completed
+2019-02-15 14:44:50,689 +0530 [main] DEBUG (DatabaseJoining.java:24) - Execution of queries took place
+2019-02-15 14:44:50,690 +0530 [main] DEBUG (DatabaseJoining.java:29) - Connection was closed successfully
+2019-02-15 14:45:29,776 +0530 [main] DEBUG (DatabaseJoining.java:18) - Driver class registered
+2019-02-15 14:45:30,199 +0530 [main] DEBUG (DatabaseJoining.java:20) - Connection with driver established
+2019-02-15 14:45:30,279 +0530 [main] DEBUG (DatabaseJoining.java:22) - Statement creation completed
+2019-02-15 14:45:30,313 +0530 [main] DEBUG (DatabaseJoining.java:24) - Execution of queries took place
+2019-02-15 14:45:30,314 +0530 [main] DEBUG (DatabaseJoining.java:30) - Connection was closed successfully
+2019-02-15 14:46:55,714 +0530 [main] DEBUG (DatabaseJoining.java:18) - Driver class registered
+2019-02-15 14:46:56,115 +0530 [main] DEBUG (DatabaseJoining.java:20) - Connection with driver established
+2019-02-15 14:46:56,189 +0530 [main] DEBUG (DatabaseJoining.java:22) - Statement creation completed
+2019-02-15 14:46:56,223 +0530 [main] DEBUG (DatabaseJoining.java:24) - Execution of queries took place
+2019-02-15 14:47:19,212 +0530 [main] DEBUG (DatabaseJoining.java:18) - Driver class registered
+2019-02-15 14:47:19,662 +0530 [main] DEBUG (DatabaseJoining.java:20) - Connection with driver established
+2019-02-15 14:47:19,739 +0530 [main] DEBUG (DatabaseJoining.java:22) - Statement creation completed
+2019-02-15 14:47:19,773 +0530 [main] DEBUG (DatabaseJoining.java:24) - Execution of queries took place
+2019-02-15 14:48:44,256 +0530 [main] DEBUG (DatabaseJoining.java:15) - Driver class registered
+2019-02-15 14:48:44,688 +0530 [main] DEBUG (DatabaseJoining.java:17) - Connection with driver established
+2019-02-15 14:48:44,769 +0530 [main] DEBUG (DatabaseJoining.java:19) - Statement creation completed
+2019-02-15 14:48:44,812 +0530 [main] DEBUG (DatabaseJoining.java:21) - Execution of queries took place
+2019-02-15 14:53:01,474 +0530 [main] DEBUG (DatabaseJoining.java:15) - Driver class registered
+2019-02-15 14:53:01,891 +0530 [main] DEBUG (DatabaseJoining.java:17) - Connection with driver established
+2019-02-15 14:53:01,972 +0530 [main] DEBUG (DatabaseJoining.java:19) - Statement creation completed
+2019-02-15 14:53:02,005 +0530 [main] DEBUG (DatabaseJoining.java:21) - Execution of queries took place
+2019-02-15 14:53:02,022 +0530 [main] DEBUG (DatabaseJoining.java:31) - Connection was closed successfully
+2019-02-15 14:55:07,763 +0530 [main] DEBUG (DatabaseJoining.java:15) - Driver class registered
+2019-02-15 14:55:08,637 +0530 [main] DEBUG (DatabaseJoining.java:17) - Connection with driver established
+2019-02-15 14:55:08,715 +0530 [main] DEBUG (DatabaseJoining.java:19) - Statement creation completed
+2019-02-15 14:55:08,745 +0530 [main] DEBUG (DatabaseJoining.java:21) - Execution of queries took place
+2019-02-15 14:55:08,745 +0530 [main] DEBUG (DatabaseJoining.java:26) - loop is running
+2019-02-15 14:55:08,747 +0530 [main] DEBUG (DatabaseJoining.java:31) - Connection was closed successfully
+2019-02-15 14:55:48,667 +0530 [main] DEBUG (DatabaseJoining.java:15) - Driver class registered
+2019-02-15 14:55:49,044 +0530 [main] DEBUG (DatabaseJoining.java:17) - Connection with driver established
+2019-02-15 14:55:49,119 +0530 [main] DEBUG (DatabaseJoining.java:19) - Statement creation completed
+2019-02-15 14:55:49,149 +0530 [main] DEBUG (DatabaseJoining.java:21) - Execution of queries took place
+2019-02-15 14:55:49,150 +0530 [main] DEBUG (DatabaseJoining.java:25) - loop is running
+2019-02-15 14:55:49,150 +0530 [main] DEBUG (DatabaseJoining.java:25) - loop is running
+2019-02-15 14:55:49,152 +0530 [main] DEBUG (DatabaseJoining.java:30) - Connection was closed successfully
