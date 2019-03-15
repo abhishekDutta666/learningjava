@@ -54,3 +54,9 @@
 2019-02-15 14:55:49,150 +0530 [main] DEBUG (DatabaseJoining.java:25) - loop is running
 2019-02-15 14:55:49,150 +0530 [main] DEBUG (DatabaseJoining.java:25) - loop is running
 2019-02-15 14:55:49,152 +0530 [main] DEBUG (DatabaseJoining.java:30) - Connection was closed successfully
+2019-03-15 18:49:26,924 +0530 [main] DEBUG (ObjectToXML.java:25) - creation of JAXBContext object done
+2019-03-15 18:49:26,952 +0530 [main] DEBUG (ObjectToXML.java:30) - creation of Marshaller objects
+2019-03-15 18:49:26,952 +0530 [main] DEBUG (ObjectToXML.java:45) - creation of question.xml file complete
+2019-03-15 19:00:43,587 +0530 [main] DEBUG (XMLToObject.java:25) - JAXBContext object created
+2019-03-15 19:00:43,595 +0530 [main] DEBUG (XMLToObject.java:28) - Unmarshaller object created
+2019-03-15 19:00:43,627 +0530 [main] DEBUG (XMLToObject.java:31) - Question object created

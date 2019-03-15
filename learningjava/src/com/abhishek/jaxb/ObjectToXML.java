@@ -6,7 +6,8 @@ package com.abhishek.jaxb;
 //Create the content tree by using set methods
 //Call the marshal method
 
-
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import java.io.FileOutputStream;  
 import java.util.ArrayList;  
   
@@ -15,15 +16,18 @@ import javax.xml.bind.Marshaller;
   
   
 public class ObjectToXML {  
+	private final static Logger logger = Logger.getLogger(ObjectToXML.class);
 public static void main(String[] args) throws Exception{  
+	PropertyConfigurator.configure("log4j.properties");
     JAXBContext contextObj = JAXBContext.newInstance(Question.class);  
     //the object is created through Constructor.newInstance
     //creation of JAXBContext object
-    
+    logger.debug("creation of JAXBContext object done");
     Marshaller marshallerObj = contextObj.createMarshaller();  
     //Object deserialization is nothing but creating an object from its serialized form and thats how 
     //we are creating an object here
     //creation of Marshaller objects
+    logger.debug("creation of Marshaller objects");
     marshallerObj.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);  
     //for pretty-print XML in JAXB
     
@@ -38,6 +42,7 @@ public static void main(String[] args) throws Exception{
     Question que=new Question(1,"What is java?",list);  
     marshallerObj.marshal(que, new FileOutputStream("question.xml"));  
     //we write this to question.xml file
+    logger.debug("creation of question.xml file complete");
        
 }  
 }  
